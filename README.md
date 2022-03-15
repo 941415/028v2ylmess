@@ -1,4 +1,4 @@
-﻿## v2ray-heroku
+﻿## v2y-hk
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/941415/028v2ylmess.git)
 
 ### heroku上部署v2ray
